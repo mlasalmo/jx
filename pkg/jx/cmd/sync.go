@@ -40,7 +40,7 @@ type SyncOptions struct {
 
 var (
 	sync_long = templates.LongDesc(`
-		Synchronises your local files to a DevPod so you an build and test your code easily on the cloud
+		Synchronises your local files to a DevPod so you can build and test your code easily on the cloud
 
 		For more documentation see: [https://jenkins-x.io/developing/devpods/](https://jenkins-x.io/developing/devpods/)
 
